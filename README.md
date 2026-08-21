@@ -1,5 +1,5 @@
 # Polluxa_Project
-End to End linked in Project
+
 # End-to-End LinkedIn Agent Analytics Platform
 
 ##  Project Overview
