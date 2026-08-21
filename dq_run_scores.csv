@@ -1,0 +1,2 @@
+run_id,scored_at,completeness,uniqueness,validity,timeliness,referential_integrity,composite_score,passed
+1,2026-08-21T09:14:32Z,0.9092970521541951,1.0,0.8571428571428571,1.0,1.0,94.88,1

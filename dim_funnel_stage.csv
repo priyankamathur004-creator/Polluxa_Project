@@ -1,0 +1,5 @@
+stage_key,stage_name,stage_order,description
+1,lead_added,1,Lead added to the agent's list
+2,contacted,2,Agent reached out (Last Contacted)
+3,warmed,3,Lead warmed (engagement/comment activity)
+4,connected,4,Connection accepted (Connected At)

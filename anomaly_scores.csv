@@ -1,0 +1,2 @@
+date_key,agent_key,accept_z,reply_decay,ghost_ratio,risk_score,risk_band,signals
+20260820,1,,,0.5,15.0,NORMAL,"[""baseline_rule_based_cold_start""]"
